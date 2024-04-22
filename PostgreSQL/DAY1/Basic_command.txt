@@ -1,0 +1,8 @@
+for showing databases--
+  \l
+for quit--
+  \q
+for showing table--
+  \d
+for connecting to db--
+  \c
